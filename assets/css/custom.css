@@ -292,7 +292,7 @@ a.filled-button:hover {
 
     }
     .background {
-        background-image: url('../assets/img/Arrow.png');
+        background-image: url:('../assets/img/Arrow.png');
         background-position: center;
         background-repeat: no-repeat;
         background-size: 100%;
