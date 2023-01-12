@@ -292,7 +292,7 @@ a.filled-button:hover {
 
     }
     .background {
-        background-image: url(/assets/img/Arrow.png);
+        background-image: url(../assets/img/Arrow.png);
         background-position: center;
         background-repeat: no-repeat;
         background-size: 100%;
@@ -303,7 +303,7 @@ a.filled-button:hover {
         opacity: 0.2;
     }
 .upper-contact-form{
-    background-image: url(/assets/img/Contact-form-upperpart.png);
+    background-image: url(../assets/img/Contact-form-upperpart.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -612,7 +612,7 @@ grid-row-gap: 0px;
     
     .div1-contact-form { 
         grid-area: 1 / 1 / 3 / 2;
-        background-image: url(/assets/img/contact-form-img.png);
+        background-image: url(../assets/img/contact-form-img.png);
         background-repeat: no-repeat;
         background-position: center;
         background-size: 100%;
@@ -771,7 +771,7 @@ a.filled-button {
     margin-bottom: 80px;
 }
 .upper-contact-form-services{
-    background-image: url(/assets/img/Contact-form-upperpart.png);
+    background-image: url(../assets/img/Contact-form-upperpart.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -800,7 +800,7 @@ a.filled-button {
     
     .div1-contact-form-services { 
         grid-area: 1 / 1 / 2 / 2;
-        background-image: url(/assets/img/contact-form-img.png);
+        background-image: url(../assets/img/contact-form-img.png);
         background-repeat: no-repeat;
         background-position: center;
         background-size: 100%;
@@ -814,7 +814,7 @@ a.filled-button {
         background-color: #003a8e;
         border-radius: 0 60px 60px 0;
         height: 698px;
-        background-image: url(/assets/img/MMA-logo.png);
+        background-image: url(../assets/img/MMA-logo.png);
         background-repeat: no-repeat;
         background-position: top;
         background-position-y: 32px;
@@ -1027,7 +1027,7 @@ iframe{
     .a1 {
         color: blue !important;
         font-size: 0px !important;
-        background-image: url(/assets/img/HOME.png);
+        background-image: url(../assets/img/HOME.png);
         background-position: center;
         background-repeat: no-repeat;
         background-size: contain;
@@ -1035,7 +1035,7 @@ iframe{
     .a2 {
         color: blue !important;
         font-size: 0px !important;
-        background-image: url(/assets/img/ABOUT-US.png);
+        background-image: url(../assets/img/ABOUT-US.png);
         background-position: center;
         background-repeat: no-repeat;
         background-size: contain;
@@ -1043,7 +1043,7 @@ iframe{
     .a3 {
         color: blue !important;
         font-size: 0px !important;
-        background-image: url(/assets/img/SERVICES.png);
+        background-image: url(../assets/img/SERVICES.png);
         background-position: center;
         background-repeat: no-repeat;
         background-size: contain;
@@ -1051,7 +1051,7 @@ iframe{
     .a4 {
         color: blue !important;
         font-size: 0px !important;
-        background-image: url(/assets/img/CONTACT.png);
+        background-image: url(../assets/img/CONTACT.png);
         background-position: center;
         background-repeat: no-repeat;
         background-size: contain;
@@ -1059,7 +1059,7 @@ iframe{
     .a5 {
         color: blue !important;
         font-size: 0px !important;
-        background-image: url(/assets/img/SPANISH.png);
+        background-image: url(../assets/img/SPANISH.png);
         background-position: center;
         background-repeat: no-repeat;
         background-size: contain;
@@ -1124,7 +1124,7 @@ iframe{
 	
 
     #index_banner {
-        background-image: url('/assets/img/MMA-first-page.jpg');
+        background-image: url('../assets/img/MMA-first-page.jpg');
         background-position: center center; 
         background-size: cover;
         background-repeat: no-repeat;
@@ -1199,7 +1199,7 @@ a.filled-button {
     display: none;
 }
     .upper-contact-form {
-        background-image: url(/assets/img/Contact-form-upperpart.png);
+        background-image: url(../assets/img/Contact-form-upperpart.png);
         background-position: center;
         background-repeat: no-repeat;
         background-size: 100%;
@@ -1230,7 +1230,7 @@ margin-top: -92px;
 
 .div1-contact-form-services {     
         grid-area: 1 / 1 / 2 / 2;
-        background-image: url(/assets/img/Contact-form-resposive.jpg);
+        background-image: url(../assets/img/Contact-form-resposive.jpg);
         height: 702px;
         width: 100%;
         border-radius: unset;
@@ -1353,7 +1353,7 @@ margin-top: -92px;
     /* OUR SERVICES - Responsive  */
 
     #about_banner {
-        background-image: url(/assets/img/Services-resposive.png);
+        background-image: url(../assets/img/Services-resposive.png);
         background-position: center center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -1419,7 +1419,7 @@ margin-top: -92px;
             margin-top: -267px;
         } */
         .upper-contact-form-services {
-            background-image: url(/assets/img/Contact-form-upperpart.png);
+            background-image: url(../assets/img/Contact-form-upperpart.png);
             background-position: center;
             background-repeat: no-repeat;
             background-size: 100%;
@@ -1581,7 +1581,7 @@ margin-top: -92px;
 
         .div1-contact-form-services-spanish {
             grid-area: 1 / 1 / 2 / 2;
-            background-image: url(/assets/img/Contact-form-resposive.jpg);
+            background-image: url(../assets/img/Contact-form-resposive.jpg);
             height: 702px;
             width: 100%;
             border-radius: unset;
@@ -1627,7 +1627,7 @@ margin-top: -92px;
 @media (width: 844px) {
     #index_banner {
         height: 547px !important;
-        background-image: url('/assets/img/Resposive-start.png');
+        background-image: url('../assets/img/Resposive-start.png');
         background-position: center center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -1704,7 +1704,7 @@ margin-top: -92px;
         margin-left: -68px;
     }
     .background {
-        background-image: url(/assets/img/Arrow.png);
+        background-image: url(../assets/img/Arrow.png);
         background-position: center;
         background-repeat: no-repeat;
         background-size: 120%;
@@ -1745,7 +1745,7 @@ margin-top: -92px;
     }
     .div1-contact-form-services {
         grid-area: 1 / 1 / 2 / 2;
-        background-image: url(/assets/img/Contact-us-resposivie.png);
+        background-image: url(../assets/img/Contact-us-resposivie.png);
         background-repeat: no-repeat;
         background-position: center;
         background-size: 120%;
@@ -1758,7 +1758,7 @@ margin-top: -92px;
         background-color: #003a8e;
         border-radius: 0 60px 60px 0;
         height: 669px;
-        background-image: url(/assets/img/MMA-logo.png);
+        background-image: url(../assets/img/MMA-logo.png);
         background-repeat: no-repeat;
         background-position: top;
         background-size: 20% !important;
@@ -1776,7 +1776,7 @@ margin-top: -92px;
         display: contents;
     }
     #about_banner {
-        background-image: url(/assets/img/ABOUT-US-UPPER-resposive.png);
+        background-image: url(../assets/img/ABOUT-US-UPPER-resposive.png);
         background-position: center center;
         background-size: cover;
         background-repeat: no-repeat;
